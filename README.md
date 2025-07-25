@@ -17,7 +17,6 @@ Toda a infraestrutura foi virtualizada no EVE-NG e configurada utilizando MikroT
 
 A arquitetura da rede foi projetada para simular uma conexão WAN realista, onde cada unidade possui seu próprio link de internet.
 
-_(**Nota:** Utilize a imagem da topologia apenas com a Matriz e a Filial)._
 
 ![Topologia da Rede VPN Site-to-Site](image.png)
 
